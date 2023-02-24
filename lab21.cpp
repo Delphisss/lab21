@@ -1,4 +1,7 @@
 // Please include header (lab21.h) here.
+#include"lab21.h"
+
+using namespace std;
 
 int main(){
 	srand(time(0));
